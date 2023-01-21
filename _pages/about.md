@@ -6,10 +6,10 @@ title: "About Yahir Espinoza-Adame"
 
 ## Education
 
-Yahir prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Yahir prides himself on his diverse skill set. 
 
 * Vanderbilt University 2025
-  * BE Biomedical Engineering
+  * BE Chemical Engineering
 
 ## Technical Skills
 
