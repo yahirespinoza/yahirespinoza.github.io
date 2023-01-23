@@ -3,11 +3,7 @@ title: "Painting "
 excerpt: "Painting of nature's creatures"
 header:
   image: /assets/img/Painting Hobby.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  teaser: /assets/img/Logo Paint.jpeg
    
 ---
 
