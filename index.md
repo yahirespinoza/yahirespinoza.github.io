@@ -14,7 +14,7 @@ feature_row:
     alt: "CNC Mill"
     title: "Plasma Donation Center"
     excerpt: "Advocates for Plasma/Blood donations"
-  - image_path: assets/img/Runniing.jpg
+  - image_path: assets/img/Runniing.jpeg
     alt: "placeholder image 2"
     title: "Advocates for healthy lifestyle"
     excerpt: "A hot plasma stream slices through sheet metal."
