@@ -2,7 +2,7 @@
 title: "Decodes Hidden Messages"
 excerpt: "This program is able to decode hidden messages in a certain list or phrases! "
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: /assets/img/Example of Code.png
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 ---
 
