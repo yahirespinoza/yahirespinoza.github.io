@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Decodes Hidden Messages"
+excerpt: "This program is able to decode hidden messages in a certain list or phrases! "
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
@@ -16,6 +16,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+Represented above is a python program created to decode hidden messages that can be found in phrases or in lists. The overall progranm incoporates an encoded text that undergoes for loops and while loops depending on the charactersitics in the code. Depending on the these chractersitics, certain letters are assigned from a DECODE dictionary that will then print out the message within the encdoded text.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
