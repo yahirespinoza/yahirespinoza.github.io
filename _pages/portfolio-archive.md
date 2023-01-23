@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-My digital projects and hobbies:
+My projects and hobbies:
