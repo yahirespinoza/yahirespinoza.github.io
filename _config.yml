@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -15,8 +15,8 @@ title                    : "Yahir Espinoza-Adame"
 title_separator          : "-"
 subtitle                 : "Vanderbilt Chemical Engineering"
 name                     : &name "Yahir Espinoza" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
-url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Who Am I? "
+url                      : https://yahirespinoza.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Yahir Headshot.jpg"
-  bio              : "An engineer with a passion for teaching "
+  bio              : "An engineer with a passion for biotechnology and pharmaceuticals. "
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
