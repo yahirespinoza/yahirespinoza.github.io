@@ -18,9 +18,9 @@ feature_row:
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
     excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing."
+  - image_path: assets/img/Sustainability.jpeg
+    title: "Sustainability"
+    excerpt: "Advocates for sustainability"
 ---
 
 {% include feature_row %}
