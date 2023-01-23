@@ -16,8 +16,8 @@ feature_row:
     excerpt: "Advocates for Plasma/Blood donations"
   - image_path: assets/img/Runniing.jpeg
     alt: "placeholder image 2"
-    title: "Advocates for healthy lifestyle"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Running"
+    excerpt: "Advocates for a healthy lifestyle"
   - image_path: assets/img/Sustainability.jpeg
     title: "Sustainability"
     excerpt: "Advocates for sustainability"
