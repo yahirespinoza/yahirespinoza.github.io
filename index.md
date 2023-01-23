@@ -10,10 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Yahir Espinoza-Adame is an engineer interested in biotechnology and pharmaceutical industry."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+  - image_path: assets/img/Plasma Picture.jpeg
     alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    title: "Plasma Donation Center"
+    excerpt: "Advocates for Plasma/Blood donations"
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
